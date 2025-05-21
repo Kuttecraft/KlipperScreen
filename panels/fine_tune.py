@@ -10,7 +10,7 @@ from ks_includes.screen_panel import ScreenPanel
 
 
 class Panel(ScreenPanel):
-    z_deltas = ["0.01", "0.05"]
+    z_deltas = ["0.05", "0.10"]
     z_delta = z_deltas[-1]
     speed_deltas = ['5', '25']
     s_delta = speed_deltas[-1]
