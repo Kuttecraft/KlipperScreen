@@ -350,10 +350,11 @@ class Panel(ScreenPanel):
             else:
                 image = "extruder"
             class_name = f"graph_label_{device}"
+            devname = "Cama Caliente"
             dev_type = "extruder"
         elif device == "heater_bed":
             image = "bed"
-            devname = "Heater Bed2"
+            devname = "Cama Caliente"
             class_name = "graph_label_heater_bed"
             dev_type = "bed"
         elif device.startswith("heater_generic"):
