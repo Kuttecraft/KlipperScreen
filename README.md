@@ -44,9 +44,3 @@ Since 2021, the project has been maintained by Alfredo Monclus (alfrix).
 | [Ko-fi](https://ko-fi.com/alfrix) |
 
 We extend our gratitude to all contributors who have helped along the way. [Meet the contributors](https://github.com/KlipperScreen/KlipperScreen/graphs/contributors).
-
-### Sponsors
-
-![LDO](docs/img/sponsors/LDO.png) ![YUMI](docs/img/sponsors/YUMI.png)
-
-Special thanks to [LDO](https://ldomotors.com/) and [YUMI](https://wiki.yumi-lab.com/) for sponsoring KlipperScreen and the open-source community.
