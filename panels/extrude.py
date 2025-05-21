@@ -46,10 +46,10 @@ class Panel(ScreenPanel):
             'pressure': self._gtk.Button("settings", _("Pressure Advance"), "color2"),
             'retraction': self._gtk.Button("settings", _("Retraction"), "color1")
         }
-        self.buttons['extrude'].connect("clicked", self.check_min_temp, "extrude", "+")
+        #self.buttons['extrude'].connect("clicked", self.check_min_temp, "extrude", "+")
         self.buttons['load'].connect("clicked", self.check_min_temp, "load_unload", "+")
         self.buttons['unload'].connect("clicked", self.check_min_temp, "load_unload", "-")
-        self.buttons['retract'].connect("clicked", self.check_min_temp, "extrude", "-")
+        #self.buttons['retract'].connect("clicked", self.check_min_temp, "extrude", "-")
         self.buttons['temperature'].connect("clicked", self.menu_item_clicked, {
             "panel": "temperature"
         })
