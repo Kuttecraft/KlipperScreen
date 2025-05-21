@@ -1,8 +1,8 @@
 /* blurry-theme created by Sascha Buerger 2023 */
-@define-color color2 #f9a825; /* 008afc */  
-@define-color color1 #f9a825; /* Red */
-@define-color color3 #f9a825; /* Green */
-@define-color color4 #f9a825; /* Yellow */
+@define-color color2 #008afc; /* 008afc */  
+@define-color color1 #008afc; /* Red */
+@define-color color3 #008afc; /* Green */
+@define-color color4 #008afc; /* Yellow */
 @define-color bg #002b36; /* Blue */
 @define-color warning #f9a825; /* Yellow */
 @define-color error #981E1F;
