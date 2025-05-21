@@ -1,4 +1,8 @@
+/* stylelint-disable */
+/* CSS linter will ignore everything between these comments */
+/* stylelint-enable */
 /* blurry-theme created by Sascha Buerger 2023 */
+
 @define-color color2 #008afc; /* 008afc */  
 @define-color color1 #008afc; /* Red */
 @define-color color3 #008afc; /* Green */
@@ -213,3 +217,4 @@ scrollbar slider {
     border-left-style: solid;
     border-radius: 0.75em;
 }
+/* stylelint-enable */
