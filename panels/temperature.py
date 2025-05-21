@@ -353,7 +353,7 @@ class Panel(ScreenPanel):
             dev_type = "extruder"
         elif device == "heater_bed":
             image = "bed"
-            devname = "Heater Bed"
+            devname = "Heater Bed1"
             class_name = "graph_label_heater_bed"
             dev_type = "bed"
         elif device.startswith("heater_generic"):
